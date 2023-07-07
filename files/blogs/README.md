@@ -1,1 +1,0 @@
-repository for blog posts. 
